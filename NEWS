@@ -47,7 +47,7 @@ Release 2020b - 2020-10-06 18:35:04 -0700
 
   Changes to past timestamps
 
-    Correct several transitions for Hungary for 1918/1983.
+    Correct several transitions for Hungary for 1918-1983.
     For example, the 1983-09-25 fall-back was at 01:00, not 03:00.
     (Thanks to Géza Nyáry.)  Also, the 1890 transition to standard
     time was on 11-01, not 10-01 (thanks to Michael Deckers).
